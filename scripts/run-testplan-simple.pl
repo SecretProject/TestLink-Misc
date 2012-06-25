@@ -1,5 +1,9 @@
 #!/usr/bin/perl
-asdf
+
+
+#good code for RPC with testlink 
+
+
 # This is a sanitized version of the "nightly test runner" I bashed up for my company.
 # It is very unlikely to be usable verbatim, but it shows some fundamental concepts:
 #	- how to interact w/ TestLink XMLRPC api with a perl client
